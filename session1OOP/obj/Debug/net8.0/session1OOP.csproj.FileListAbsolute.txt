@@ -1,0 +1,14 @@
+/Users/shahdsherif/session1OOP/bin/Debug/net8.0/session1OOP
+/Users/shahdsherif/session1OOP/bin/Debug/net8.0/session1OOP.deps.json
+/Users/shahdsherif/session1OOP/bin/Debug/net8.0/session1OOP.runtimeconfig.json
+/Users/shahdsherif/session1OOP/bin/Debug/net8.0/session1OOP.dll
+/Users/shahdsherif/session1OOP/bin/Debug/net8.0/session1OOP.pdb
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.AssemblyInfoInputs.cache
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.AssemblyInfo.cs
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.csproj.CoreCompileInputs.cache
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.dll
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/refint/session1OOP.dll
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.pdb
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/session1OOP.genruntimeconfig.cache
+/Users/shahdsherif/session1OOP/obj/Debug/net8.0/ref/session1OOP.dll
